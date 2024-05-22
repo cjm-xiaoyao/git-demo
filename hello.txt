@@ -11,3 +11,4 @@ Hello World!   master test
 Hello World!  hot-fix test
 我是谁，我在哪里，我要到哪里去？
 远程库修改了东西了！
+ssh免密登录测试！
